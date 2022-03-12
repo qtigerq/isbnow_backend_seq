@@ -15,7 +15,6 @@ class Book extends Model {
             sequelize: connection
         })
     }
-
 }
 
 module.exports = Book;
