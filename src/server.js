@@ -10,4 +10,6 @@ app.use(express.json());
 app.use(cors());                                            //Gerente de conflitos de requisições
 app.use(routes);
 
-app.listen(3001);
+app.listen(21316);
+
+//ALTERAÇÃO PARA TESTAR DEPLOY VIA GIT COMMIT.
